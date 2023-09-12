@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/software-developer-6521720_1280.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Real Estate Website using React.js🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A dynamic website for real estate listings built using React.js, allowing users to browse and search for properties with ease.",
+    url: "https://lnkd.in/dj_gDx3w",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Goal Tracking App using MERN Stack",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a goal tracking application using the MERN (MongoDB, Express.js, React.js, Node.js) stack to help users set and achieve their goals.",
+    url: "https://github.com/UMAR-78/MERN-GOAL-APP",
   },
   {
-    title: "My Resume Site",
+    title: "UsabilityHub Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a clone of UsabilityHub, a platform for user testing and design feedback, to gather valuable insights on user interfaces.",
+    url: " https://lnkd.in/dMs9d7AM",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "University Website Landing Page",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed and developed an engaging landing page for a university website, providing key information and a welcoming user experience.",
+    url: "https://umar-78.github.io/University-Website/",
   },
 ];
 
